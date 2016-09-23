@@ -4,7 +4,11 @@ Search products on leboncoin
 1 - install dependancies
 https://docs.npmjs.com/getting-started/using-a-package.json
 
-2 - Run server.js
-node server.js
+2 - In process.js
+Insert your email in lines 19 & 27
+Insert pass of your email account on line 20
 
-3 - Envoy
+3 - Run script
+node process.js
+
+4 - Enjoy
