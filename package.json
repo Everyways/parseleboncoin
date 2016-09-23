@@ -1,0 +1,15 @@
+{
+  "name": "node-parse-email",
+  "version": "0.0.1",
+  "description": "scrap & send email",
+  "main": "server.js",
+  "author": "everyways",
+  "dependencies": {
+    "cheerio": "latest",
+    "express": "latest",
+    "node-cron": "^1.1.2",
+    "nodemailer": "latest",
+    "request": "latest",
+    "nodemailer-smtp-transport": "latest"
+  }
+}
