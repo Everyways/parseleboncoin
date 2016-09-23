@@ -1,5 +1,5 @@
 # parseleboncoin
-Search products on leboncoin 
+Search products on leboncoin and received update and new post directly in your mailbox
 
 1 - install dependancies
 https://docs.npmjs.com/getting-started/using-a-package.json
